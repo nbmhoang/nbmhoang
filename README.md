@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <a href="https://github.com/nbmhoang">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nbmhoang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+</p>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
